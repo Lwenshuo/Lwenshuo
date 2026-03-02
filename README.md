@@ -16,7 +16,7 @@ I am a robotics researcher focused on cable-driven manipulators, soft robotics, 
 
 ## Education
 
-- **Ph.D. in Mechanical Engineering**, Harbin Institute of Technology (Shenzhen), 2020-2024
+- **Ph.D. in Mechanical Engineering**, Harbin Institute of Technology , 2020-2024
 - **M.Eng. in Mechanical Engineering**, Dalian Maritime University, 2017-2020
 - **B.S. in Mechanical Engineering**, Dalian Maritime University, 2012-2016
 
