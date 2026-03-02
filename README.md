@@ -4,7 +4,7 @@ I am a robotics researcher focused on cable-driven manipulators, soft robotics, 
 
 - Website: https://lwenshuo.github.io/
 - ORCID: https://orcid.org/0000-0002-1793-6353
-- Email: 14528817@qq.com
+- Email: 20b953005@stu.hit.edu.cn  wenshuol@hku.hk
 
 ## Research Interests
 
