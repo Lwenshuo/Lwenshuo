@@ -13,6 +13,7 @@ I am a robotics researcher focused on cable-driven manipulators, soft robotics, 
 - Force-position hybrid/compliance control
 - Reinforcement learning and VLA for manipulation
 - Digital twin pipelines for robot deployment
+- Soft robots
 
 ## Education
 
